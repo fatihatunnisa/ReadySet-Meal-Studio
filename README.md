@@ -10,8 +10,7 @@ Built with **React (Vite)**, **Tailwind CSS v4**, and powered by the advanced in
 1. [🌟 Value Proposition & Brand Vision](#-value-proposition--brand-vision)
 2. [🤖 Google AI Studio & Gemini Integration Details](#-google-ai-studio--gemini-integration-details)
 3. [💻 Tech Stack & Architecture](#-tech-stack--architecture)
-4. [📊 3-Minute PPT Pitch Deck Structure (Slide-by-Slide)](#-3-minute-ppt-pitch-deck-structure-slide-by-slide)
-5. [⚙️ Installation & Development Guide](#%EF%B8%8F-installation--development-guide)
+4. [⚙️ Installation & Development Guide](#%EF%B8%8F-installation--development-guide)
 
 ---
 
@@ -72,49 +71,6 @@ This application represents a hybrid client-server full-stack implementation opt
 * **Backend**:
   - **Express Server (`server.ts`)**: Serves API pathways and hosts server-side Gemini interactions, shielding critical API keys securely away from browsers.
   - **Vite Middleware**: Serves the React assets in developer states, bundled into static folders under production environment builds.
-
----
-
-## 📊 3-Minute PPT Pitch Deck Structure (Slide-by-Slide)
-
-If you need to pitch **ReadySet. Meal Studio** in exactly **3 minutes (180 seconds)**, utilize this high-impact, professional slide outline:
-
-### ⏱️ Slide 1: Introduction / Hook (30 Seconds)
-* **Slide Title**: ReadySet. Meal Studio — Cook Without The Chaos
-* **Visuals**: Clean, modern logo layout featuring the `🍳` emoji and a high-contrast elegant interface mockup.
-* **Key Talking Points**:
-  - **The Problem**: 70% of people suffer from "decision fatigue" every evening when deciding what to cook, resulting in active food waste and excessive grocery expenditures.
-  - **The Mission**: Modernize the home kitchen. Transform cooking from a chaotic back-and-forth chore into a calm, organized, and creative process.
-
-### ⏱️ Slide 2: The Solution & Value (45 Seconds)
-* **Slide Title**: Frictionless Kitchen Organization
-* **Visuals**: Screenshot highlighting **Search Inventory** and **Find Recipe** inputs embedded in a responsive dashboard interface.
-* **Key Talking Points**:
-  - **Smart Inventory Monitoring**: Easily track ingredients, categories, and quantities with visual "Low Stock" indicators.
-  - **Unified Weekly Planner**: Effortlessly assign proposed recipes to specific days or meal slots, freeing up cognitive space.
-  - **Visual Discipline**: A completely pristine user interface designed for readability under hot and active stove conditions, prioritizing elegant spacing over clutter.
-
-### ⏱️ Slide 3: Engineering — Powered by Google AI (45 Seconds)
-* **Slide Title**: Harnessing the Intelligence of Gemini
-* **Visuals**: A clean conceptual diagram demonstrating: *Pantry Image ➡️ Multimodal Gemini Scan ➡️ Structured Ingredient Ledger*.
-* **Key Talking Points**:
-  - **Multimodal Scanner**: Snapshot a refrigerator shelf; Gemini parses the item names and dynamically catalogs them into stock list records.
-  - **Structured Recipe Synthesis**: Gemini acts as a professional chef, analyzing current stocks to invent custom recipes formatted in precise, robust JSON.
-  - **Action-Capable Chatbot**: A collaborative helper that can execute programmatic state alterations (updating quantities, tracking shopping items) purely from natural colloquial language.
-
-### ⏱️ Slide 4: Real-time Demo (40 Seconds)
-* **Slide Title**: Experience Meal Studio
-* **Visuals**: Live screen-share demonstration or high-end animated recording of:
-  - Exploring the active inventory dashboard using **Search Inventory**.
-  - Querying recipes with **Find Recipe**.
-  - Opening an immersive recipe overlay, showcasing step-by-step cook timers, ingredient checks, and tag badges.
-
-### ⏱️ Slide 5: Vision & Call to Action (20 Seconds)
-* **Slide Title**: Join the Zero-Chaos Culinary Movement
-* **Visuals**: Bold typography featuring the slogan "Cook Without The Chaos" alongside the app deployment URL.
-* **Key Talking Points**:
-  - **The Call to Action**: Take command of your kitchen, limit carbon footprint impact through zero waste, and rediscover the joy of stress-free daily cooking.
-  - **Conclusion**: Thank you to the audience and open the floor to brief Q&A inquiries.
 
 ---
 
