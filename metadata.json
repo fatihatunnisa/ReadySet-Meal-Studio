@@ -1,0 +1,11 @@
+{
+  "name": "ReadySet. Meal Studio",
+  "description": "Cook without the chaos. A high-fidelity meal planning dashboard designed to help you plan fast, store recipes, and shop smarter.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
